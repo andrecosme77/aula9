@@ -13,7 +13,6 @@ int main() {
                 printf("%c", str[i]);
         }
     }
-	printf("Bye nigga!\n");
 	return 0;
 }
 
